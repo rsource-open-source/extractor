@@ -1,0 +1,10 @@
+{
+  "robloxLsp.diagnostics.globals": [
+    "getgc",
+    "getinfo",
+    "v52",
+    "v61",
+    "v83",
+    "setclipboard"
+  ]
+}
